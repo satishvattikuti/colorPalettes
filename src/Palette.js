@@ -7,7 +7,7 @@ export default class Palette extends Component {
                 {/* header here  */}
                 <div className="Palette-colors">
                 </div>
-                {/* footer here */}
+                {/* footer here changes*/}
             </div>
         )
     }
